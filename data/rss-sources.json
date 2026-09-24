@@ -1,0 +1,114 @@
+[
+  {
+    "id": "archdaily",
+    "name": "ArchDaily",
+    "url": "https://www.archdaily.com",
+    "rssUrl": "https://feeds.feedburner.com/Archdaily",
+    "category": "architecture",
+    "country": "Global / USA",
+    "language": "multilingual",
+    "isActive": true,
+    "description": {
+      "ru": "Крупнейший в мире веб-сайт об архитектуре: проекты ведущих мировых бюро, чертежи, детали конструкций и профессиональная критика.",
+      "en": "The world's most visited architecture website, covering projects, technical details, and global architectural dispatches."
+    }
+  },
+  {
+    "id": "dezeen",
+    "name": "Dezeen",
+    "url": "https://www.dezeen.com",
+    "rssUrl": "https://www.dezeen.com/feed/",
+    "category": "architecture",
+    "country": "United Kingdom",
+    "language": "en",
+    "isActive": true,
+    "description": {
+      "ru": "Влиятельный лондонский журнал об архитектуре, дизайне интерьеров и инновациях с ежедневными эксклюзивными материалами.",
+      "en": "Influential London-based architecture, interior design, and technology magazine publishing daily curated exclusives."
+    }
+  },
+  {
+    "id": "designboom",
+    "name": "Designboom",
+    "url": "https://www.designboom.com",
+    "rssUrl": "https://www.designboom.com/feed/",
+    "category": "design",
+    "country": "Italy / Global",
+    "language": "en",
+    "isActive": true,
+    "description": {
+      "ru": "Первое независимое цифровое издание о дизайне, искусстве, архитектуре и технологиях, основанное в Милане в 1999 году.",
+      "en": "The first and most popular digital magazine covering architecture, industrial design, art, and cutting-edge culture."
+    }
+  },
+  {
+    "id": "wallpaper",
+    "name": "Wallpaper*",
+    "url": "https://www.wallpaper.com",
+    "rssUrl": "https://www.wallpaper.com/feeds.xml",
+    "category": "interior",
+    "country": "United Kingdom",
+    "language": "en",
+    "isActive": true,
+    "description": {
+      "ru": "Международный авторитет в области современного интерьерного дизайна, моды, искусства, путешествий и архитектуры.",
+      "en": "International authority on contemporary interior design, bespoke living spaces, architecture, fashion, and art."
+    }
+  },
+  {
+    "id": "ad_magazine",
+    "name": "Architectural Digest",
+    "url": "https://www.architecturaldigest.com",
+    "rssUrl": "https://www.architecturaldigest.com/feed/rss",
+    "category": "interior",
+    "country": "USA / Global",
+    "language": "en",
+    "isActive": true,
+    "description": {
+      "ru": "Легендарное издание о высокой культуре интерьера, резиденциях знаменитых архитекторов и мировых трендах декора.",
+      "en": "International design authority featuring the work of top architects, high-end residential interiors, and historic residences."
+    }
+  },
+  {
+    "id": "designmilk",
+    "name": "Design Milk",
+    "url": "https://design-milk.com",
+    "rssUrl": "https://design-milk.com/feed/",
+    "category": "design",
+    "country": "USA",
+    "language": "en",
+    "isActive": true,
+    "description": {
+      "ru": "Онлайн-журнал о современном дизайне, мебели, интерьерах и концептуальной архитектуре.",
+      "en": "Online magazine dedicated to modern design, interior architecture, furnishings, and art."
+    }
+  },
+  {
+    "id": "yellowtrace",
+    "name": "Yellowtrace",
+    "url": "https://www.yellowtrace.com.au",
+    "rssUrl": "https://www.yellowtrace.com.au/feed/",
+    "category": "interior",
+    "country": "Australia",
+    "language": "en",
+    "isActive": true,
+    "description": {
+      "ru": "Влиятельный австралийский ресурс о передовых интерьерных проектах, материалах и дизайне освещения.",
+      "en": "Award-winning Australian digital publication on architecture, bespoke interior design, and hospitality."
+    }
+  },
+  {
+    "id": "archdaily_br",
+    "name": "ArchDaily Brasil",
+    "url": "https://www.archdaily.com.br",
+    "rssUrl": "https://feeds.feedburner.com/ArchDailyBrasil",
+    "category": "architecture",
+    "country": "Brazil / South America",
+    "language": "multilingual",
+    "isActive": true,
+    "description": {
+      "ru": "Латиноамериканское подразделение ArchDaily: тропический модернизм, инновации жилья и общественные пространства.",
+      "en": "Latin American branch of ArchDaily focusing on tropical modernism, urban housing, and public civic architecture."
+    }
+  }
+]
